@@ -3,7 +3,10 @@
 
 some deep learning based recommender system methods implemented by pytorch.
 
-目前实现的内容包括：
+The implementions of pytorch version follw the original Tensorflow version, and the result between my implemention and original version may have some differences.
+
+It worth to mention that all the Tensorflow version is the original paper implementation.
+
 
 
 |        methods     |       Pytorch version   |       Tensorflow version     |          paper           |
