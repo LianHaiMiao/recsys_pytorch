@@ -1,7 +1,7 @@
 # please download the dataset from https://github.com/hexiangnan/neural_collaborative_filtering first.
 # then, add the data files in data directory
 # It worth to mention that we do not implement the pre-train version.
-# we provide two kind of model: MLP and GMF
+# we provide three kind of model: MLP, GMF and NeuMF
 
 import time
 import argparse
